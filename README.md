@@ -23,10 +23,4 @@ Currently, I am exploring the intersection of:
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-#### 📊 GitHub Statistics
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=operator-98&show_icons=true&theme=default"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=operator-98&layout=compact&theme=default"/>
-</p>
 
