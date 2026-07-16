@@ -1,37 +1,32 @@
-# Hi, I'm Burnie 👋
+# Hi there 👋
 
-🎓 Applied Data Science student at Harbin Institute of Technology & emlyon Business School
+Hello! I'm Burnie.
 
-I am interested in building practical solutions with data, AI, and software engineering.
+🎓 I am an undergraduate student majoring in **Applied Data Science** at **Harbin Institute of Technology & emlyon Business School**.
 
-Currently, I am exploring how data-driven technologies can solve real-world problems.
+I am interested in using **data, AI, and software engineering** to build practical solutions for real-world problems.
 
----
+Currently, I am exploring the intersection of:
+- 📊 Data Science
+- 🤖 Artificial Intelligence
+- 💻 Software Engineering
+- 🌍 Business Applications
+#### 🛠 Skills
 
-## 🔭 Currently
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</p>
 
-- 💻 Data Science Intern
-- 🏥 Developing data solutions for medical research applications
-- 🤖 Exploring AI-powered software products
-- 📚 Preparing for graduate study in data science / related fields
+#### 📊 GitHub Statistics
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-Python · SQL · JavaScript
-
-**Data Science**
-
-Pandas · NumPy · Machine Learning · Data Analysis
-
-**Backend & Tools**
-
-SQLAlchemy · MySQL · Git · Docker
-
-**Frontend**
-
-React · Vite
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=operator-98&show_icons=true&theme=default"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=operator-98&layout=compact&theme=default"/>
+</p>
 
