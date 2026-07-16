@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Burnie 👋
 
-<!--
-**operator-98/operator-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Applied Data Science student at Harbin Institute of Technology & emlyon Business School
 
-Here are some ideas to get you started:
+I am interested in building practical solutions with data, AI, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am exploring how data-driven technologies can solve real-world problems.
+
+---
+
+## 🔭 Currently
+
+- 💻 Data Science Intern
+- 🏥 Developing data solutions for medical research applications
+- 🤖 Exploring AI-powered software products
+- 📚 Preparing for graduate study in data science / related fields
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+Python · SQL · JavaScript
+
+**Data Science**
+
+Pandas · NumPy · Machine Learning · Data Analysis
+
+**Backend & Tools**
+
+SQLAlchemy · MySQL · Git · Docker
+
+**Frontend**
+
+React · Vite
+
